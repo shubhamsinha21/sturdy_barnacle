@@ -1,0 +1,29 @@
+Problem statement - 
+Create a console-based expense tracker program in python that allows -> 
+the user to record daily expenses and view summaries like total spending.
+
+Description - 
+You are required to build a simple finance management tool,
+The program should allow the user to:
+- add expenses with details (date, category, description, amount)
+- view all recorded expenses in a clean format
+- calculate total spending so format
+- exit the progra,, gracefully when the user chooses to
+
+Note - no user defined function or file handling should be used.
+
+Sample output - 
+
+WELCOME TO EXPENSE tracker
+=== MENU =====
+1. ADD expense
+2. View all expense
+3. View total spending
+4. exit
+===============
+
+Enter your choice (1-4) : 1
+
+Enter date (DD-MM-YYYY): 05-11-2026
+
+
