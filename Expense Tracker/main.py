@@ -33,9 +33,9 @@ while True:
 # view all expenses
     elif choice == 2:
         if (len(expenses) == 0):
-            print("No Expenses Added 🙂")
+            print("\nNo Expenses Added 🙂\n")
         else:
-            print("These are your expenses 👉🏻")
+            print("\nThese are your expenses 👉🏻\n")
             count = 1
             for i in expenses:
                 print(f"{count} -> {i["date"]}, {i["category"]}, {i["description"]}, {i["amount"]}")
@@ -51,8 +51,8 @@ while True:
             
 # EXIT
     elif choice == 4:
-        print("Thanks for using this 👉🏻  EXIT....")
+        print("\nThanks for using this 👉🏻  EXIT....\n")
         break
     
     else:
-        print("Invalid choice. Try again !!")
+        print("\nInvalid choice. Try again !!\n")
