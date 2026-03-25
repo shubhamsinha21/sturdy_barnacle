@@ -1,0 +1,10 @@
+# TEXT EDITOR APP
+
+this priject is built using python's Tkinter GUI library demonstrating
+file handling, menu creation, event-driven programming.
+
+Tkinter
+- is a python built-in GUI library used to create desktop applications with windows
+- menus, buttons and text boxes.
+
+for example - notepad 
