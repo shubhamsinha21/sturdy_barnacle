@@ -1,1 +1,2 @@
-Hello, guys. Welcome to vlogs. These vlogs will be live
+Hello, guys. Welcome to vlogs. These vlogs will be live.
+print(f"File data -> {line1}")
