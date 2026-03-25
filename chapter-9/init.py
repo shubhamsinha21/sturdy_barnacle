@@ -42,6 +42,6 @@ aeroplane = Vehicle()
 print(car.mileage)
 print(aeroplane.color)
 print(bike.petrolDiesel)
-# print(Vehicle.start())
+print(Vehicle.start)
 
         
