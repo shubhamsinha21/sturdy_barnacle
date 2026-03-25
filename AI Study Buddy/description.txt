@@ -1,0 +1,33 @@
+AI Study Buddy (Rule based chat assistant in python)
+
+Objective -> 
+to create a conversational ai assistant using python's core logic.
+
+What to do ->
+In this project, we will build a mini AI chatbot that can interact with users. 
+The chatbot will understand simple messages like "hello", :motivate me", or "python"
+and respond with friendly, intelligent answers.
+
+This is a rule based chatbot, it doesn't use real AI analysis yet, but it behaves intelligently with python logics.
+
+# Sample output
+
+🤖 Hello! I'm shub's study buddy!
+You can talk to me. Type "bye" anytime to exit.
+
+You: hello
+Bot: hi
+
+You: Who are You
+Bot: I'm your friendly AI study buddy created by shubha,
+
+You: motivate me
+Bot: Keep going! Every bug you fix makes you a better coder
+
+You: bye
+Bot: Goodbye, Nice to talk to you.
+
+# features
+- respond to simple users inputs
+- works continously untill typed bye
+- easy to customize with new keywords
