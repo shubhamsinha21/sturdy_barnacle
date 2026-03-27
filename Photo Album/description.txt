@@ -1,0 +1,19 @@
+# Python Image Slideshow app (Using PIL) 📷
+
+This project is an image Slideshow application built using Python, Tkinter and 
+the PIL (pillow) library to display resized images with time-based transitions.
+
+It demonstates how to use external libraries, handle images, resize them, and display them
+in a GUI application with time-based transitions.
+
+# PIL / pillow
+- is an external python library used for image processing such as opening, resizing, 
+converting images.
+
+# Image (PIL MODULE)
+- used to open and resize images
+
+# ImageTK
+- used to convert Pil images into a format that Tkinter can display.
+- Tkinter cannot show PIL images directly without ImageTk.
+
